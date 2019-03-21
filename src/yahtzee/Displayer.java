@@ -126,5 +126,4 @@ public class Displayer extends Thread{
 		
 	}
 
-	
 }

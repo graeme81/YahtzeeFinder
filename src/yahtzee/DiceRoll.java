@@ -1,7 +1,6 @@
 package yahtzee;
 
 import java.awt.*;
-
 import javax.swing.*;
 
 public class DiceRoll extends Thread{
