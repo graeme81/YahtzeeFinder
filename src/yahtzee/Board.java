@@ -18,7 +18,6 @@ public class Board implements ActionListener{
 	
 	public static void main(String[] args) {
 		
-//		Board board = new Board();
 		new Board();
 		evaluate = new Evaluate();
 		diceRoll = new DiceRoll(setter, evaluate, win);
